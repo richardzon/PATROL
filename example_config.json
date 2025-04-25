@@ -1,0 +1,16 @@
+{
+    "telegram_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "telegram_chat_id": "YOUR_TELEGRAM_CHAT_ID",
+    "taostats_api_key": "YOUR_TAOSTATS_API_KEY",
+    "network": "finney",
+    "check_interval": 6,
+    "volume_interval": 180,
+    "history_length": 10,
+    "low_volume_threshold": 700,
+    "delegation_low_volume": 10,
+    "delegation_any_volume": 20,
+    "volume_spike_pct": 30,
+    "registration_burst": 3,
+    "burst_window": 300,
+    "exclude_subnet_0": true
+}
